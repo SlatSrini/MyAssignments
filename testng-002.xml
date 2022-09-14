@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Sequential">
+  <test name="Test-002">
+    <classes>
+      <class name="week2.day3.CreateLead"/>
+      <class name="week2.day4.EditLead"/>
+    </classes>
+  </test> <!-- Test-002 -->
+</suite> <!-- Sequential -->
